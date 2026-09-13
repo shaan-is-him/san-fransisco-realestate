@@ -1,2 +1,3 @@
 # san-fransisco-realestate
-just a project i made for college presentation
+Here's the Kaggle dataset link [https://www.kaggle.com/datasets/aparnashastry/building-permit-applications-data]
+Refer to the presentation for more information on Project.
